@@ -1,0 +1,27 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container {
+    margin: 0 auto;
+    height: 1200px;
+    text-align: center;
+    background-image: url("./img/sky.jpg");
+}
+
+.main {
+    margin-top: 5%;
+}
+
+.table {
+    margin: 0 auto;
+    width: 300px;
+    border: 1px solid black;
+}
+
+.features {
+    list-style-type: none;
+}
+
